@@ -1,0 +1,78 @@
+{
+	"Exit":"Salir",
+	"Start":"Comenzar",
+	"Settings":"Opciones",
+	"Continue":"Continuar",
+	"Back":"Atras",
+	"Mute":"Silenciar",
+	"LeftHanded":"Mano Izquierda",
+	"LeftHandedExp":"* El inventario estara en la parte izquierda",
+	"InvertedAxis":"Eje Invertido",
+	"Skip":"Saltar",
+	"Begin":"Iniciar",
+	"PreludeText":"Desde ese dia, el reportero Serge Gunter no dejo de sentir que lo llamaba. \nLa entrevista del señor Ethan  Herleif será en su hogar, la mansión Herleif. \nEthan, hombre de familia, aventurero e investigador descubrió algo muy interesante en uno de sus viajes. Es posible que esta noticia haga a una de las leyendas más conocidas de la historia cierta.. \nLa entrada a la mansión estaba abierta, el interior frío llamaba a Serge, nadie respondía a su llamado, todo estaba en perfecto silencio... \nA cada paso,  la sensación de ser llamado aumentaba. Serge sentía que estaba cerca, justamente aquí en este cuarto...",
+	"IntroScene":"Introduccion",
+	"Resume":"Resumir",
+	"NewGame":"New Game",
+	"PlayStore":"Rate Us",
+	"Menu":"Menu",
+	"GameOver":"GameOver",
+	"Tutorial1":"La puerta esta cerrada",
+	"Tutorial2":"Creo que tengo unos calmantes en mi bolsillo",
+	"SkipTutorial":"Saltar Tutorial",
+
+	"w1_Picture1":"Fotos de la Familia Herleif...",
+	"w1_Picture2":"Aparentan una hermosa familia...",
+	"w1_Switch":"El interruptor no funciona.",
+	"w1_Door0":"La puerta no abre.",
+	"w1_Door1":"Hace un momento estaba...",
+	"w1_Door2":"Tengo que buscar la llave.",
+	"w1_Letter":"Este cuarto necesita una remodelación.",
+
+	"Mural0":"Parte de la investigación de Ethan. Muchos de los textos hablan sobre diferentes zonas de la selva amazónica.",
+	"Mural1":"No hay imagenes sobre su investigación...",
+	"Mural2":"Por alguna razón no puedo leer los textos...",
+	"w2_Bookcase":"Esta cerrado con llave.",
+	"w2_Papers":"Ethan es un escritor muy desordenado.",
+	"w2_Desk":"No abre.",
+	"w2_TypewriterComplete":"Recuerdo que Ethan mencionó que 'jamu' significa enfermedad en alguna lengua del Amazonas.",
+
+	"w3_DreamCatcher":"Un atrapasueños... seguramente fue un regalo de Ethan a su esposa Elena.",
+	"w3_Dresses":"Vestidos finos, Elena es una mujer muy talentosa.",
+	"w3_Magazines0":"Diferentes revistas de concursos de moda.",
+	"w3_Magazines1":"Ella tiene un ego muy elevado.",
+	"w3_Magazines2":"Me pregunto como es la relación entre Ethan y Elena.",
+	"w3_Mirror0":"La belleza se refleja en los ojos que la miran. Parece que hay algo detrás del espejo.",
+	"w3_Mirror1":"La belleza no lo es todo, puede estar vacia por dentro.",
+
+	"w4_MotherStuff":"Noelle, quizá su madre desea la belleza perfecta en ella.",
+	"w4_FatherStuff":"Noelle, quizá su padre desea compartir su conocimiento con ella.",
+	"w4_Toys":"La inocencia de los niños es tan pura, su mundo es tan limpio... ella no debería estar sufriendo.",
+
+
+
+
+	"ExtraText_0":"Seria bueno que escriba sobre esto... \n(Texto extra añadido)",
+	"ExtraText_1":"Seria bueno que escriba sobre... \n(Texto extra añadido)",
+	"ExtraText_2":"Seria bueno... \n(Texto extra añadido)",
+	"ExtraText_3":"Seria... \n(Texto extra añadido)",
+	"ExtraText_4":"... \n(Texto extra añadido)",
+	"ExtraText_5":"... \n(Texto extra añadido)",
+
+	"ExtraTextDescription_0":"Ethan, Elena y Noelle Herleif. Una pequeña familia para tan grande mansión que puede haber sido herencia familiar por su antigüedad. \nRodeado de naturaleza, sin señal de civilización alguna. Me pregunto cuál habrá sido el motivo de sus descendientes por construir esta mansión...",
+	"ExtraTextDescription_1":"Ethan Herleif, aventurero en sus años mozos, todos estos libros están llenos de investigaciones e historias escritas a mano. Es posible que piense publicarlos, seguramente será recordado en los archivos de la ciencia. Me pregunto donde esta eso que quería mostrarme...",
+	"ExtraTextDescription_2":"Elena -----. Es muy probable que ella no haya estado presente en los viajes de Ethan y veo que su amor ha mantenido esta familia unida. Me pregunto si sabrá sobre las investigaciones de su esposo. Me pregunto si sabrá sobre eso. Me pregunto si --- también los llama a ellos. Me pregunto, me pregunto...",
+	"ExtraTextDescription_3":"Noelle... enfermedad, cansancio, sueño. No parece que su salud se recupere y es muy posible que muera en unos días… su salud no --- y ellos --- saben --- eso la llama --- eso --- con ella..",
+	"ExtraTextDescription_4":"Hoy conocí a Ethan Herleif. Nos reunimos en un bar cercano y luego de unas bebidas me contó que en la selva peruana encontró algo que cambiaría la historia de las leyendas que rodea ese místico lugar. Un cristal en forma de huevo de color verdoso como si estuviera bañado en petróleo. Al tocarlo generaba calor como si reaccionara al que la tocase. El señor Ethan me dijo que era muy probable que sea la llave a El Dorado, uno de esos lugares inventados por algún aventurero astuto que solo quería llenarse los bolsillos con falsas promesas o al menos eso es lo que siempre he pensado de esos cuentos de hadas./nSi lo que el señor Ethan dice es cierto, podría servirme mucho en mi carrera profesional como reportero. Lo único que sé desde ese momento que se despidió en aquel bar es que… ahora me llama...el cristal me llama...",
+	"ExtraTextDescription_5":"Todo está oscuro, no veo nada alrededor mío. El frío que rodea el cuarto está entrando en mi cuerpo, tengo miedo de morir. \n La maldición debe estar apoderándose de mí… sin embargo eso me llama y lo siento cerca, muy cerca. \nDonde estoy? El olor me recuerda a pasto, como si...estuviera en la selva… \nUn pequeño rayo de luz ilumina el cuarto y por un instante lo vi...y también a ellos...señor Ethan...señora Elena...",
+
+
+	"PickedItem":"Esto puede ser útil.",
+	"NighmareText0":"Falta algo en este cuarto...",
+	"NighmareText1":"Aquí está...",
+	"NighmareText2":"Había algo aquí... Pero falta algo mas.",
+
+	"Credits":"Developers: \n      Javier Padilla \n      Daniel Lopez \nSound and Graphics: \n      Hann Lopez \n      Ivan León \n \nSound effects obtained from: \n      https://freesound.org https://www.zapsplat.com \nMusic from Kevin MacLeod  - incompetech. \nLicensed under Creative Commons: By Attribution 3.0 License \n      http://creativecommons.org/licenses/by/3.0",
+
+	"BookText":"En el bosque, entre 3 arboles estaba el chuyachaki \nDe un grupo de cazadores, 1 perdido cerca del chullachaqui esta \nAhora los 2 avanzan al pueblo con seguridad \nEntre mentiras y silencio el cazador observa sus 2 pies, \nUno no es normal, parece 1 animal \n \nEl chuyachaki se entera y ahora solo queda el cazador perdido en la selva."
+}
